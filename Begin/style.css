@@ -57,7 +57,7 @@ button:hover {
 
 .main {
   align-items: center;
-  display: flex;
+  display: none;
   height: 100vh;
   justify-content: center;
   width: 100%;
